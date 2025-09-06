@@ -1,0 +1,3 @@
+# ZMK
+
+ZaidaTek Micro Kit
