@@ -1,3 +1,3 @@
-# ZMK
+# ZMC
 
-ZaidaTek Micro Kit
+ZaidaTek Micro-Controller Development Kit
