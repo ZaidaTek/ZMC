@@ -6,7 +6,7 @@ ZaidaTek Micro-Controller Development Kit
 
 
 
-[2025-09-14-04-20-13-278.webm](https://github.com/user-attachments/assets/c63384bd-7de7-4675-9813-1cda47db44e6)
+[the-living-daylights-but-in-german](https://github.com/user-attachments/assets/c63384bd-7de7-4675-9813-1cda47db44e6)
 
 
 
