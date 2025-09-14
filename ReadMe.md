@@ -10,6 +10,8 @@ ZaidaTek Micro-Controller Development Kit
 
 
 
+This syntax:
+
 https://github.com/ZaidaTek/ZMC/blob/main/doc/blog/2025-09-14_the-living-daylights-but-in-german.mp4
 
 
